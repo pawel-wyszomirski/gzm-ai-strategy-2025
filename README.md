@@ -3,6 +3,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: AI Ready](https://img.shields.io/badge/Status-AI%20Ready-green)](llms.txt)
 [![GZM](https://img.shields.io/badge/Region-GZM%20\(Silesia\)-blue)]()
+[![DOI:](https://zenodo.org/badge/DOI/10.5281/zenodo.17854612.svg)](https://doi.org/10.5281/zenodo.17854611)
 
 This repository contains a digital, machine-readable version of the strategic report **"GZM AI-Ready"** (known as the *GZM Algorithm*). The document defines a roadmap for transforming the GZM region into a leading artificial intelligence hub in Poland by 2030.
 
