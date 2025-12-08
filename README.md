@@ -41,7 +41,7 @@ The content and data in this repository are available under the **Creative Commo
 
 **How to cite:**
 
-> Wyszomirski P., Skorupa M., Nagórski K., *Algorytm GZM: Sztuczna inteligencja w GZM. Potencjał, potrzeby, kierunki działania*, Silesian Startup Foundation, Katowice 2025. Available at: [([https://github.com/pawel-wyszomirski/gzm-ai-strategy-2025](https://github.com/pawel-wyszomirski/gzm-ai-strategy-2025))]
+> Wyszomirski P., Skorupa M., Nagórski K., *Algorytm GZM: Sztuczna inteligencja w GZM. Potencjał, potrzeby, kierunki działania*, Silesian Startup Foundation, Katowice 2025. Available at: [https://github.com/pawel-wyszomirski/gzm-ai-strategy-2025](https://github.com/pawel-wyszomirski/gzm-ai-strategy-2025)
 
 ---
 
